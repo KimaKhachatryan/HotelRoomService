@@ -1,5 +1,4 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using System.Runtime.InteropServices;
 
 namespace HotelRoomService.Core.Models.Entities
 {
@@ -13,14 +12,7 @@ namespace HotelRoomService.Core.Models.Entities
         [Range(0, double.MaxValue, ErrorMessage = "Price must be non-negative.")]
         public decimal Price { get; set; }
         public bool IsActive { get; set; }
-        /*
-        Service
-        Id(int, PK)
-        Name(string, e.g., “Breakfast”, “Cleaning”, “Spa”)
-        Description(string, optional)
-        Price(decimal)
-        IsActive(bool)
-         */
+       
     }
 
 

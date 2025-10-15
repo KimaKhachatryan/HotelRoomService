@@ -1,10 +1,5 @@
-﻿using System;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using HotelRoomService.Core.Models.Enums;
+﻿using System.ComponentModel.DataAnnotations;
+using HotelRoomService.Shared.Enums;
 
 namespace HotelRoomService.Core.Models.Entities
 {
@@ -22,12 +17,7 @@ namespace HotelRoomService.Core.Models.Entities
 
 
 
-        /*User
-   Id(int, PK)
-   Name(string, required)
-   Email(string, unique)
-   PasswordHash(string)
-   Role(enum: "User" | "Manager")*/
+     
 
     }
 

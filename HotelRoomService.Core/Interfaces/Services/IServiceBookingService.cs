@@ -1,4 +1,4 @@
-﻿using HotelRoomService.Core.Models.DTO;
+﻿using HotelRoomService.Shared.DTO;
 
 namespace HotelRoomService.Core.Interfaces.Services
 {

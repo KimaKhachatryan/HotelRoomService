@@ -1,11 +1,6 @@
-﻿using HotelRoomService.Core.Models.Enums;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using HotelRoomService.Shared.Enums;
+namespace  HotelRoomService.Shared.DTO
 
-namespace HotelRoomService.Core.Models.DTO
 {
     public class RoomCreateDto
     {

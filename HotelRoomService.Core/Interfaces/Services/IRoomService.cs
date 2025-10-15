@@ -1,10 +1,9 @@
-﻿using HotelRoomService.Core.Models.DTO;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using HotelRoomService.Shared.DTO;
 namespace HotelRoomService.Core.Interfaces.Services
 {
     public interface IRoomService

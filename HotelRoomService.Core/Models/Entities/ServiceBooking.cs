@@ -1,4 +1,4 @@
-﻿using HotelRoomService.Core.Models.Enums;
+﻿using HotelRoomService.Shared.Enums;
 
 namespace HotelRoomService.Core.Models.Entities
 {

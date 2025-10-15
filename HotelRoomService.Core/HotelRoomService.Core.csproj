@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\HotelRoomService.Shared\HotelRoomService.Shared.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,5 +1,5 @@
-﻿using HotelRoomService.Core.Models.Enums;
-namespace HotelRoomService.Core.Models.DTO
+﻿using HotelRoomService.Shared.Enums;
+namespace HotelRoomService.Shared.DTO
 {
     public class ServiceBookingReadDto
     {

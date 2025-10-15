@@ -1,6 +1,5 @@
-﻿using HotelRoomService.Core.Models.Enums;
+﻿using HotelRoomService.Shared.Enums;
 using System.ComponentModel.DataAnnotations;
-using System.Runtime.Serialization;
 
 namespace HotelRoomService.Core.Models.Entities
 {

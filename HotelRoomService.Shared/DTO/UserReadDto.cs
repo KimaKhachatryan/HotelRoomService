@@ -1,11 +1,5 @@
-﻿using HotelRoomService.Core.Models.Enums;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace HotelRoomService.Core.Models.DTO
+﻿using HotelRoomService.Shared.Enums;
+namespace HotelRoomService.Shared.DTO
 {
     public class UserReadDto
     {

@@ -1,6 +1,6 @@
-﻿using HotelRoomService.Core.Models.DTO;
-
-namespace HotelRoomService.Core.Interfaces.Services
+﻿using HotelRoomService.Shared;
+using HotelRoomService.Shared.DTO;
+namespace HotelRoomService.Core.Interfaces
 {
     public interface IServiceService
     {
