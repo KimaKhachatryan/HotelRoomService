@@ -1,0 +1,6 @@
+@HotelRoomService.DTO_HostAddress = http://localhost:5280
+
+GET {{HotelRoomService.DTO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
